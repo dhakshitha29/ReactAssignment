@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "a8ff",
+      "firstname": "Kandula ",
+      "lastname": "Sai Dhakshitha ",
+      "email": "ksaidhakshitha@gmail.com",
+      "username": "dhakshitha_29",
+      "password": "$2a$05$.GZ7n0U1u516p5Yf1ayAZ.Grnb/7MxmUzOrXNqPiXp2XOvlRSDgMy"
+    },
+    {
+      "id": "5a65",
+      "firstname": "Kandula ",
+      "lastname": "Sai Dhakshitha ",
+      "email": "22071a0582@vnrvjiet.in",
+      "username": "sai_dhakshith",
+      "password": "$2a$05$9TWGIeypt6.PBJiBnF/cyOaFFj/Mkwq5fMaBQ37zg3XxOCpUV30ya"
+    },
+    {
+      "id": "5fd4",
+      "firstname": "Kandula ",
+      "lastname": "mahith",
+      "email": "22071a0582@vnrvjiet.in",
+      "username": "spamzzzzzzzz5",
+      "password": "$2a$05$zzLXrdndq9hQlM5L72SBGeaD7qzM7jE.aL9m6GO4ICWNDNHdl58kC"
+    },
+    {
+      "id": "4c49",
+      "firstname": "Kandula ",
+      "lastname": "Sai Dhakshitha ",
+      "email": "vnr.cseb2022@gmail.com",
+      "username": "sai_dhakshit",
+      "password": "$2a$05$st.n6tu6EA3DwxcYTmpsXulhpgytIWAqegZmxyUk.bgda5sukcnd6"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.log{
+    border-radius: 10px;
+    border: 2px solid white;
+    background: transparent;
+    backdrop-filter: blur(8px);
+    padding: 2rem;
+    height: 25em;
+    width: 23em;
+}
+button:hover{
+    border:none;
+}
+.c::placeholder{
+    color: #F9F6EE;
+}

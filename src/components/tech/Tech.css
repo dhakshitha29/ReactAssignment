@@ -1,0 +1,15 @@
+
+.i{
+    border-radius: 50%;
+    width: 12em;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+Link{
+    text-align: center;
+}
+

@@ -1,0 +1,11 @@
+#ot{
+    background-image: url('https://img.freepik.com/free-photo/neon-tropical-monstera-leaf-banner_53876-138943.jpg?w=2000&t=st=1708450264~exp=1708450864~hmac=41e3fc104fbd9627e55c08b1bb717ea069bbbef74e3b9d6829b25ad7951ab987');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
